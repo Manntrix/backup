@@ -1,0 +1,1907 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WeCreativez WhatsApp Support\n"
+"POT-Creation-Date: 2020-11-09 23:20+0530\n"
+"PO-Revision-Date: 2020-11-09 23:23+0530\n"
+"Last-Translator: 主题猫 <themecat@163.com>\n"
+"Language-Team: 主题猫ThemeCat.Net <themecat@163.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wordpress-whatsapp-support.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/class-wws-admin-analytics-table.php:16
+#, fuzzy
+#| msgid "Analytics"
+msgid "Analytic"
+msgstr "分析"
+
+#: includes/admin/class-wws-admin-analytics-table.php:17
+#: includes/admin/class-wws-admin-init.php:113
+#: includes/admin/class-wws-admin-init.php:114
+msgid "Analytics"
+msgstr "分析"
+
+#: includes/admin/class-wws-admin-analytics-table.php:111
+msgid "Visitors IP"
+msgstr "访客IP"
+
+#: includes/admin/class-wws-admin-analytics-table.php:112
+#: includes/admin/class-wws-admin-dasboard-widget.php:55
+msgid "Number"
+msgstr "数"
+
+#: includes/admin/class-wws-admin-analytics-table.php:113
+msgid "Message"
+msgstr "消息"
+
+#: includes/admin/class-wws-admin-analytics-table.php:114
+msgid "Through"
+msgstr ""
+
+#: includes/admin/class-wws-admin-analytics-table.php:115
+msgid "Referral"
+msgstr "推介"
+
+#: includes/admin/class-wws-admin-analytics-table.php:116
+msgid "Device Type"
+msgstr "设备类型"
+
+#: includes/admin/class-wws-admin-analytics-table.php:117
+msgid "OS"
+msgstr "操作系统"
+
+#: includes/admin/class-wws-admin-analytics-table.php:118
+msgid "Browser"
+msgstr "浏览器"
+
+#: includes/admin/class-wws-admin-analytics-table.php:119
+#: includes/admin/class-wws-admin-dasboard-widget.php:56
+msgid "Date"
+msgstr "日期"
+
+#: includes/admin/class-wws-admin-analytics-table.php:139
+msgid "No Value"
+msgstr ""
+
+#: includes/admin/class-wws-admin-analytics-table.php:145
+msgid "Info"
+msgstr ""
+
+#: includes/admin/class-wws-admin-analytics-table.php:146
+#: includes/admin/class-wws-admin-analytics-table.php:165
+#: includes/admin/views/admin-manage-support-persons.php:22
+msgid "Delete"
+msgstr "删除"
+
+#: includes/admin/class-wws-admin-dasboard-widget.php:21
+#, fuzzy
+#| msgid "Google Click Analytics"
+msgid "Quick Click Analytics"
+msgstr "Google Click Analytics"
+
+#: includes/admin/class-wws-admin-dasboard-widget.php:44
+#, php-format
+msgid "Current Version: %s"
+msgstr ""
+
+#: includes/admin/class-wws-admin-dasboard-widget.php:51
+#, fuzzy
+#| msgid "Support Contact Number"
+msgid "Recent Contact Numbers"
+msgstr "联系电话"
+
+#: includes/admin/class-wws-admin-dasboard-widget.php:57
+#: includes/admin/views/admin-manage-support-persons.php:10
+#: includes/admin/views/admin-manage-support-persons.php:34
+#, fuzzy
+#| msgid "Action"
+msgid "Actions"
+msgstr "行动"
+
+#: includes/admin/class-wws-admin-dasboard-widget.php:67
+msgid "Call"
+msgstr ""
+
+#: includes/admin/class-wws-admin-dasboard-widget.php:70
+msgid "Information"
+msgstr ""
+
+#: includes/admin/class-wws-admin-dasboard-widget.php:78
+msgid "Recent Contact Numbers analytics works with only layout 6 and layout 7."
+msgstr ""
+
+#: includes/admin/class-wws-admin-dasboard-widget.php:84
+msgid "Today"
+msgstr ""
+
+#: includes/admin/class-wws-admin-dasboard-widget.php:85
+#: includes/admin/class-wws-admin-dasboard-widget.php:89
+#: includes/admin/class-wws-admin-dasboard-widget.php:93
+#, php-format
+msgid "%d clicks"
+msgstr ""
+
+#: includes/admin/class-wws-admin-dasboard-widget.php:88
+msgid "Last Week"
+msgstr ""
+
+#: includes/admin/class-wws-admin-dasboard-widget.php:92
+msgid "Last Month"
+msgstr ""
+
+#: includes/admin/class-wws-admin-init.php:24
+msgid "Appearance"
+msgstr "出现"
+
+#: includes/admin/class-wws-admin-init.php:28
+msgid "Basic Settings"
+msgstr "基本设置"
+
+#: includes/admin/class-wws-admin-init.php:32
+#, fuzzy
+#| msgid "Manage Support Persons"
+msgid "Manage Support Person(s)"
+msgstr "管理支持人员"
+
+#: includes/admin/class-wws-admin-init.php:36
+#, fuzzy
+#| msgid "Settings"
+msgid "Widget Text Settings"
+msgstr "设置"
+
+#: includes/admin/class-wws-admin-init.php:40
+msgid "Button Generator"
+msgstr "按钮生成器"
+
+#: includes/admin/class-wws-admin-init.php:45
+msgid "Link Generator"
+msgstr "链接生成"
+
+#: includes/admin/class-wws-admin-init.php:50
+msgid "QR Generator"
+msgstr "QR发生器"
+
+#: includes/admin/class-wws-admin-init.php:55
+msgid "Product Query"
+msgstr "产品查询"
+
+#: includes/admin/class-wws-admin-init.php:59
+#: includes/admin/class-wws-admin-init.php:65
+#: includes/admin/class-wws-admin-init.php:145
+#: includes/admin/class-wws-admin-init.php:202
+#: includes/admin/views/admin-basic-settings.php:234
+msgid "Developer Settings"
+msgstr "开发者设置"
+
+#: includes/admin/class-wws-admin-init.php:60
+#, fuzzy
+#| msgid "Please do not turn on without our recommendation."
+msgid "Please do not enable debug option without our recommendation."
+msgstr "如果没有我们的推荐，请不要打开。"
+
+#: includes/admin/class-wws-admin-init.php:70
+msgid "Facebook Pixel Analytics"
+msgstr "Facebook Pixel Analytics"
+
+#: includes/admin/class-wws-admin-init.php:75
+msgid "Google Click Analytics"
+msgstr "Google Click Analytics"
+
+#: includes/admin/class-wws-admin-init.php:103
+#: includes/admin/class-wws-admin-init.php:104
+#: includes/compatibility/class-wws-dokan.php:105
+msgid "WhatsApp Support"
+msgstr "WhatsApp Support"
+
+#: includes/admin/class-wws-admin-init.php:121
+#: includes/admin/class-wws-admin-init.php:122
+msgid "FB & GA Analytics"
+msgstr "FB＆GA Analytics"
+
+#: includes/admin/class-wws-admin-init.php:129
+#: includes/admin/class-wws-admin-init.php:130
+msgid "GDPR Setting"
+msgstr "GDPR设置"
+
+#: includes/admin/class-wws-admin-init.php:137
+#: includes/admin/class-wws-admin-init.php:138
+#: includes/admin/views/admin-plugin-support.php:2
+msgid "Plugin Support"
+msgstr "插件支持"
+
+#. Plugin Name of the plugin/theme
+#: includes/admin/class-wws-admin-init.php:156
+#: includes/admin/class-wws-admin-metabox.php:14
+msgid "WordPress WhatsApp Support"
+msgstr "WordPress WhatsApp Support"
+
+#: includes/admin/class-wws-admin-init.php:177
+msgid "Facebook and Google Analytics"
+msgstr "Facebook和谷歌分析"
+
+#: includes/admin/class-wws-admin-init.php:188
+#, fuzzy
+#| msgid "GDPR Setting"
+msgid "GDPR Settings"
+msgstr "GDPR设置"
+
+#: includes/admin/class-wws-admin-metabox.php:32
+#: includes/admin/views/admin-manage-support-persons.php:51
+#: includes/admin/views/admin-product-query.php:44
+msgid "Support Contact Number"
+msgstr "联系电话"
+
+#: includes/admin/class-wws-admin-metabox.php:39
+#, fuzzy
+#| msgid "About Support."
+msgid "About Support Text"
+msgstr "关于支持。"
+
+#: includes/admin/class-wws-admin-metabox.php:46
+#, fuzzy
+#| msgid "Predefined Text"
+msgid "Predefined Message"
+msgstr "预定义文本"
+
+#: includes/admin/class-wws-admin-metabox.php:48
+#: includes/admin/views/admin-widget-text-settings.php:58
+#: includes/admin/views/multiperson-support/admin-add-multiperson-support.php:88
+#: includes/admin/views/multiperson-support/admin-edit-multiperson-support.php:88
+#, php-format
+msgid ""
+"%s to display current page title in chat.<br>%s to display current page URL "
+"in chat.<br>%s to break the line into a new line."
+msgstr ""
+"%s在聊天中显示当前页面标题。<br>%s在聊天中显示当前页面URL。%s将该行分成新行。"
+
+#: includes/admin/class-wws-admin-metabox.php:54
+#: includes/admin/views/admin-widget-text-settings.php:4
+msgid "Trigger Button Text"
+msgstr "触发按钮文本"
+
+#: includes/admin/class-wws-admin-notifications.php:20
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+#: includes/admin/class-wws-admin-notifications.php:27
+#, php-format
+msgid ""
+"Settings saved. If you changed the layout then please go to <a href=\"%s"
+"\">Manage Support Persons</a> to add or modify the support persons."
+msgstr ""
+"设置已保存。如果您更改了布局，请转到<a href=\"%s\">管理支持人员</a>以添加或修"
+"改支持人员。"
+
+#: includes/admin/class-wws-admin-plugin-updater.php:271
+#, php-format
+msgid ""
+"<a href=\"%s\" class=\"thickbox open-plugin-details-modal\">View details</a>"
+msgstr ""
+
+#: includes/admin/class-wws-admin-plugin-updater.php:275
+#, fuzzy, php-format
+#| msgid "Check for updates"
+msgid "<a href=\"%s\">Check for updates</a>"
+msgstr "检查更新"
+
+#: includes/admin/class-wws-admin-plugin-updater.php:297
+msgid " To receive automatic updates license activation is required."
+msgstr ""
+
+#: includes/admin/class-wws-admin-plugin-updater.php:298
+#, php-format
+msgid " Please visit plugin settings to activate your %s."
+msgstr ""
+
+#: includes/admin/class-wws-admin-plugin-updater.php:299
+#, php-format
+msgid " <a href=\"%s\" target=\"_blank\">Click here</a> to manage site."
+msgstr ""
+
+#: includes/admin/class-wws-admin-plugin-updater.php:316
+#, fuzzy, php-format
+#| msgid "Activate"
+msgid "Activate %s"
+msgstr "启用"
+
+#: includes/admin/class-wws-admin-plugin-updater.php:317
+#, fuzzy
+#| msgid ""
+#| "Please enter your purchase code. Purchasing plugin license also grants "
+#| "access to premium support. Use one license per domain please!"
+msgid ""
+"Please enter your purchase code. Purchasing plugin license also grants "
+"access to premium support and auto-updates."
+msgstr ""
+"请输入您的购买代码。购买插件许可证还授予访问高级支持的权限。每个域请使用一个"
+"许可证！"
+
+#: includes/admin/class-wws-admin-plugin-updater.php:319
+#, fuzzy
+#| msgid "Enter Envato Purchase Code"
+msgid "Envato Purchase Code"
+msgstr "输入Envato购买代码"
+
+#: includes/admin/class-wws-admin-plugin-updater.php:320
+msgid "Activate Plugin"
+msgstr "激活插件"
+
+#: includes/admin/class-wws-admin-plugin-updater.php:323
+msgid ""
+"Important! One standard license is valid for only 1 website. Running "
+"multiple websites on a single license is a copyright violation."
+msgstr ""
+
+#: includes/admin/class-wws-admin-plugin-updater.php:325
+#, php-format
+msgid ""
+"If you plan to use this plugin for several different domains, please <a href="
+"\"%s\">purchase additional licenses</a> for each of them."
+msgstr ""
+
+#: includes/admin/class-wws-admin-plugin-updater.php:327
+#: includes/admin/class-wws-admin-plugin-updater.php:342
+msgid "Manage site"
+msgstr ""
+
+#: includes/admin/class-wws-admin-plugin-updater.php:328
+#: includes/admin/class-wws-admin-plugin-updater.php:343
+#, fuzzy
+#| msgid "Where is my purchase code?"
+msgid "What is my purchase code?"
+msgstr "我的购买代码在哪里？"
+
+#: includes/admin/class-wws-admin-plugin-updater.php:329
+#: includes/admin/class-wws-admin-plugin-updater.php:344
+msgid "Need our help?"
+msgstr "需要我们的帮助吗？"
+
+#: includes/admin/class-wws-admin-plugin-updater.php:330
+#: includes/admin/class-wws-admin-plugin-updater.php:345
+#, fuzzy
+#| msgid "License Agreement"
+msgid "License agreement"
+msgstr "许可协议"
+
+#: includes/admin/class-wws-admin-plugin-updater.php:336
+#, fuzzy, php-format
+#| msgid "Deactivate"
+msgid "Deactivate %s"
+msgstr "停用"
+
+#: includes/admin/class-wws-admin-plugin-updater.php:339
+#, fuzzy
+#| msgid "Activate Plugin"
+msgid "Deactivate Plugin"
+msgstr "激活插件"
+
+#: includes/admin/class-wws-admin-plugin-updater.php:380
+#: includes/admin/class-wws-admin-plugin-updater.php:453
+#, fuzzy
+#| msgid "Where is my purchase code?"
+msgid "Missing purchase code."
+msgstr "我的购买代码在哪里？"
+
+#: includes/admin/class-wws-admin-plugin-updater.php:384
+#: includes/admin/class-wws-admin-plugin-updater.php:457
+#, fuzzy
+#| msgid "Invalid Purchase Code"
+msgid "Invalid purchase code."
+msgstr "购买代码无效"
+
+#: includes/admin/class-wws-admin-plugin-updater.php:388
+#, fuzzy, php-format
+#| msgid "Your key is blocked. Please contact us."
+msgid "Purchase code is blocked, please <a href=\"%s\">contact us</a>."
+msgstr "你的密钥被阻止了。请联系我们。"
+
+#: includes/admin/class-wws-admin-plugin-updater.php:392
+#: includes/admin/class-wws-admin-plugin-updater.php:461
+msgid "Missing item ID."
+msgstr ""
+
+#: includes/admin/class-wws-admin-plugin-updater.php:396
+msgid "Invalid item."
+msgstr ""
+
+#: includes/admin/class-wws-admin-plugin-updater.php:400
+msgid "Missing website URL."
+msgstr ""
+
+#: includes/admin/class-wws-admin-plugin-updater.php:404
+#, php-format
+msgid ""
+"Your license key has reached its activation limit. <a href=\"%s\" target="
+"\"_blank\">Click here</a> to manage site."
+msgstr ""
+
+#: includes/admin/class-wws-admin-plugin-updater.php:412
+#: includes/admin/class-wws-admin-plugin-updater.php:473
+#, fuzzy
+#| msgid "Server error. Please contact us."
+msgid "Unknown error. Please contact us."
+msgstr "服务器错误。请联系我们。"
+
+#: includes/admin/class-wws-admin-plugin-updater.php:420
+#, php-format
+msgid "<strong>%s</strong> activated successfully."
+msgstr ""
+
+#: includes/admin/class-wws-admin-plugin-updater.php:465
+msgid "Invalid item"
+msgstr ""
+
+#: includes/admin/class-wws-admin-plugin-updater.php:482
+#, php-format
+msgid "<strong>%s</strong> deactivated successfully."
+msgstr ""
+
+#: includes/admin/class-wws-admin-plugin-updater.php:504
+#, php-format
+msgid ""
+"Hola! Would you like to receive automatic updates and unlock premium "
+"support? Please <a href=\"%2$s\">activate</a> your copy of <strong>%1$s</"
+"strong>, or <a href=\"%3$s\">purchase a new license</a>"
+msgstr ""
+
+#: includes/admin/class-wws-admin-visual-composer.php:27
+msgid "WhatsApp Support Button"
+msgstr "WhatsApp按钮"
+
+#: includes/admin/class-wws-admin-visual-composer.php:30
+msgid "Content"
+msgstr "内容"
+
+#: includes/admin/class-wws-admin-visual-composer.php:37
+#: includes/admin/views/admin-button-generator.php:17
+#: includes/admin/views/admin-qr-generator.php:5
+msgid "Support Number"
+msgstr "手机号码"
+
+#: includes/admin/class-wws-admin-visual-composer.php:39
+msgid "911234567890"
+msgstr "911234567890"
+
+#: includes/admin/class-wws-admin-visual-composer.php:40
+msgid ""
+"Enter mobile phone number with the international country code, without '+' "
+"character."
+msgstr "输入带有国家代码的手机号码，不含+号."
+
+#: includes/admin/class-wws-admin-visual-composer.php:46
+#: includes/admin/views/admin-button-generator.php:28
+msgid "Button Text"
+msgstr "按钮文本"
+
+#: includes/admin/class-wws-admin-visual-composer.php:48
+msgid "Contact Us"
+msgstr "联系我们"
+
+#: includes/admin/class-wws-admin-visual-composer.php:54
+#: includes/admin/views/admin-product-query.php:23
+msgid "Button Color"
+msgstr "按钮颜色"
+
+#: includes/admin/class-wws-admin-visual-composer.php:62
+#: includes/admin/views/admin-button-generator.php:42
+#: includes/admin/views/admin-product-query.php:30
+msgid "Button Text Color"
+msgstr "按钮文本颜色"
+
+#: includes/admin/class-wws-admin-visual-composer.php:68
+#: includes/admin/views/admin-button-generator.php:53
+msgid "Button Bold Text"
+msgstr "按钮粗体文本"
+
+#: includes/admin/class-wws-admin-visual-composer.php:71
+#: includes/admin/class-wws-admin-visual-composer.php:105
+#: includes/admin/class-wws-admin-visual-composer.php:117
+#: includes/admin/class-wws-admin-visual-composer.php:127
+#: includes/admin/views/admin-basic-settings.php:82
+#: includes/admin/views/admin-basic-settings.php:107
+#: includes/admin/views/admin-basic-settings.php:132
+#: includes/admin/views/admin-button-generator.php:55
+#: includes/admin/views/admin-button-generator.php:78
+#: includes/admin/views/admin-button-generator.php:100
+#: includes/admin/views/admin-button-generator.php:109
+msgid "No"
+msgstr "否"
+
+#: includes/admin/class-wws-admin-visual-composer.php:72
+#: includes/admin/class-wws-admin-visual-composer.php:106
+#: includes/admin/class-wws-admin-visual-composer.php:116
+#: includes/admin/class-wws-admin-visual-composer.php:126
+#: includes/admin/views/admin-basic-settings.php:81
+#: includes/admin/views/admin-basic-settings.php:106
+#: includes/admin/views/admin-basic-settings.php:131
+#: includes/admin/views/admin-button-generator.php:56
+#: includes/admin/views/admin-button-generator.php:79
+#: includes/admin/views/admin-button-generator.php:99
+#: includes/admin/views/admin-button-generator.php:108
+msgid "Yes"
+msgstr "是"
+
+#: includes/admin/class-wws-admin-visual-composer.php:78
+#: includes/admin/views/admin-button-generator.php:62
+msgid "Button Font Style"
+msgstr "按钮字体样式"
+
+#: includes/admin/class-wws-admin-visual-composer.php:81
+#: includes/admin/views/admin-button-generator.php:64
+msgid "Theme Default"
+msgstr "主题默认"
+
+#: includes/admin/class-wws-admin-visual-composer.php:82
+msgid "Lobster"
+msgstr "Lobster"
+
+#: includes/admin/class-wws-admin-visual-composer.php:83
+msgid "Satisfy"
+msgstr "Satisfy"
+
+#: includes/admin/class-wws-admin-visual-composer.php:84
+msgid "Bree Serif"
+msgstr "Bree Serif"
+
+#: includes/admin/class-wws-admin-visual-composer.php:85
+msgid "Oswald"
+msgstr "Oswald"
+
+#: includes/admin/class-wws-admin-visual-composer.php:86
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+#: includes/admin/class-wws-admin-visual-composer.php:87
+msgid "Dancing Script"
+msgstr "舞动脚本"
+
+#: includes/admin/class-wws-admin-visual-composer.php:94
+#: includes/admin/views/admin-button-generator.php:87
+#: includes/admin/views/admin-link-generator.php:28
+msgid "Pre Populate Message"
+msgstr "预填充消息"
+
+#: includes/admin/class-wws-admin-visual-composer.php:96
+msgid "Hello..."
+msgstr "您好..."
+
+#: includes/admin/class-wws-admin-visual-composer.php:97
+#: includes/admin/views/admin-button-generator.php:89
+msgid "This is what you will receive when user sent message first time."
+msgstr "这是用户第一次发送邮件时收到的内容。"
+
+#: includes/admin/class-wws-admin-visual-composer.php:102
+#: includes/admin/views/admin-button-generator.php:76
+msgid "Full Width Button"
+msgstr "全宽按钮"
+
+#: includes/admin/class-wws-admin-visual-composer.php:108
+msgid "This will expand button to full width."
+msgstr "这会将按钮展开到全宽。"
+
+#: includes/admin/class-wws-admin-visual-composer.php:113
+#: includes/admin/views/admin-basic-settings.php:100
+msgid "Display On Mobile"
+msgstr "在手机显示"
+
+#: includes/admin/class-wws-admin-visual-composer.php:123
+#: includes/admin/views/admin-basic-settings.php:75
+#: includes/admin/views/admin-button-generator.php:106
+msgid "Display On Desktop"
+msgstr "在桌面显示"
+
+#: includes/admin/views/admin-analytics-page.php:5
+msgid "WeCreativez WhatsApp Support - Analytics"
+msgstr "WhatsApp - 分析"
+
+#: includes/admin/views/admin-analytics-page.php:11
+msgid "Total Clicks Analytics"
+msgstr "总点击分析"
+
+#: includes/admin/views/admin-analytics-page.php:17
+msgid "Total Clicks"
+msgstr "总点击次数"
+
+#: includes/admin/views/admin-analytics-page.php:23
+msgid "Total Clicks By Desktop/ Laptop"
+msgstr "桌面/笔记本总点击次数"
+
+#: includes/admin/views/admin-analytics-page.php:29
+msgid "Total Clicks By Mobile"
+msgstr "手机总点击次数"
+
+#: includes/admin/views/admin-analytics-page.php:39
+#, fuzzy
+#| msgid "Total Clicks Analytics"
+msgid "Current Month Click Analytics"
+msgstr "总点击分析"
+
+#: includes/admin/views/admin-analytics-page.php:49
+#, fuzzy
+#| msgid "Total Clicks Analytics"
+msgid "Top 10 Click Analytics"
+msgstr "总点击分析"
+
+#: includes/admin/views/admin-analytics-page.php:53
+msgid "Top 10 IP Address"
+msgstr ""
+
+#: includes/admin/views/admin-analytics-page.php:59
+msgid "Top 10 Referral Links"
+msgstr ""
+
+#: includes/admin/views/admin-analytics-page.php:65
+msgid "Top 10 Operating Systems"
+msgstr ""
+
+#: includes/admin/views/admin-analytics-page.php:71
+#, fuzzy
+#| msgid "Browser"
+msgid "Top 10 Browsers"
+msgstr "浏览器"
+
+#: includes/admin/views/admin-analytics-page.php:80
+msgid "Complete Analytics"
+msgstr "完整分析"
+
+#: includes/admin/views/admin-analytics-page.php:96
+#, fuzzy
+#| msgid "Analytics"
+msgid "Analytics Actions"
+msgstr "分析"
+
+#: includes/admin/views/admin-analytics-page.php:100
+#: includes/admin/views/admin-developer-settings.php:27
+msgid "Are you sure?"
+msgstr "你确定吗？"
+
+#: includes/admin/views/admin-analytics-page.php:101
+msgid "Delete Complete Analytics"
+msgstr "删除完整分析"
+
+#: includes/admin/views/admin-analytics-page.php:104
+#, fuzzy
+#| msgid "Complete Analytics"
+msgid "Export Analytics CSV"
+msgstr "完整分析"
+
+#: includes/admin/views/admin-analytics-page.php:113
+msgid "<strong>N/A</strong> means not applicable for the selected layout."
+msgstr "<strong> N/A </strong>表示不适用于所选布局。"
+
+#: includes/admin/views/admin-appearance-settings.php:63
+msgid "Select Layout"
+msgstr "选择布局"
+
+#: includes/admin/views/admin-appearance-settings.php:64
+msgid "Select your layout."
+msgstr "请在此选择布局。"
+
+#: includes/admin/views/admin-appearance-settings.php:71
+msgid "Layout Background Color"
+msgstr "布局背景颜色"
+
+#: includes/admin/views/admin-appearance-settings.php:72
+msgid "Set popup layout background color."
+msgstr "设置弹出布局背景颜色。"
+
+#: includes/admin/views/admin-appearance-settings.php:78
+msgid "Layout Text Color"
+msgstr "布局文本颜色"
+
+#: includes/admin/views/admin-appearance-settings.php:79
+msgid "Set popup layout text color."
+msgstr "设置弹出布局文本颜色。"
+
+#: includes/admin/views/admin-appearance-settings.php:85
+msgid "Enable Layout Gradient"
+msgstr "启用布局渐变"
+
+#: includes/admin/views/admin-appearance-settings.php:86
+#: includes/admin/views/admin-appearance-settings.php:94
+#: includes/admin/views/admin-basic-settings.php:150
+#: includes/admin/views/admin-basic-settings.php:172
+#: includes/admin/views/admin-basic-settings.php:179
+#: includes/admin/views/admin-developer-settings.php:5
+#: includes/admin/views/admin-developer-settings.php:13
+#: includes/admin/views/admin-developer-settings.php:32
+#: includes/admin/views/admin-fb-analytics-settings.php:5
+#: includes/admin/views/admin-ga-analytics-settings.php:5
+#: includes/admin/views/admin-gdpr-setting-page.php:5
+#: includes/admin/views/admin-manage-support-persons.php:95
+#: includes/admin/views/admin-product-query.php:5
+#: includes/compatibility/class-wws-dokan.php:82
+msgid "Enable/ Disable"
+msgstr "启用/禁用"
+
+#: includes/admin/views/admin-appearance-settings.php:87
+msgid "Enable/ Disable popup background gradient."
+msgstr "启用/禁用弹出背景渐变。"
+
+#: includes/admin/views/admin-appearance-settings.php:93
+msgid "Show Only Icon on Mobile"
+msgstr "在移动设备仅显示图标"
+
+#: includes/admin/views/admin-appearance-settings.php:95
+msgid ""
+"Enable this option if you what to display an icon instead of text button on "
+"mobile."
+msgstr "如果要在移动设备显示图标而不是文本按钮，请启用此项。"
+
+#: includes/admin/views/admin-basic-settings.php:8
+#: includes/admin/views/multiperson-support/admin-add-multiperson-support.php:43
+#: includes/admin/views/multiperson-support/admin-edit-multiperson-support.php:39
+msgid "Monday"
+msgstr "星期一"
+
+#: includes/admin/views/admin-basic-settings.php:11
+#: includes/admin/views/multiperson-support/admin-add-multiperson-support.php:44
+#: includes/admin/views/multiperson-support/admin-edit-multiperson-support.php:40
+msgid "Tuesday"
+msgstr "星期二"
+
+#: includes/admin/views/admin-basic-settings.php:14
+#: includes/admin/views/multiperson-support/admin-add-multiperson-support.php:45
+#: includes/admin/views/multiperson-support/admin-edit-multiperson-support.php:41
+msgid "Wednesday"
+msgstr "星期三"
+
+#: includes/admin/views/admin-basic-settings.php:17
+#: includes/admin/views/multiperson-support/admin-add-multiperson-support.php:46
+#: includes/admin/views/multiperson-support/admin-edit-multiperson-support.php:42
+msgid "Thursday"
+msgstr "星期四"
+
+#: includes/admin/views/admin-basic-settings.php:20
+#: includes/admin/views/multiperson-support/admin-add-multiperson-support.php:47
+#: includes/admin/views/multiperson-support/admin-edit-multiperson-support.php:43
+msgid "Friday"
+msgstr "星期五"
+
+#: includes/admin/views/admin-basic-settings.php:23
+#: includes/admin/views/multiperson-support/admin-add-multiperson-support.php:48
+#: includes/admin/views/multiperson-support/admin-edit-multiperson-support.php:44
+msgid "Saturday"
+msgstr "星期六"
+
+#: includes/admin/views/admin-basic-settings.php:26
+#: includes/admin/views/multiperson-support/admin-add-multiperson-support.php:49
+#: includes/admin/views/multiperson-support/admin-edit-multiperson-support.php:45
+msgid "Sunday"
+msgstr "星期日"
+
+#: includes/admin/views/admin-basic-settings.php:47
+msgid "X-axis Offset"
+msgstr "X轴偏移"
+
+#: includes/admin/views/admin-basic-settings.php:48
+#: includes/admin/views/admin-basic-settings.php:62
+msgid "In px ( pixels ) only. Default 12px."
+msgstr "仅在px（像素）中。默认12px。"
+
+#: includes/admin/views/admin-basic-settings.php:49
+msgid "Enter the value of x-axis ( horizontal ) widget spacing."
+msgstr "输入x轴（水平）窗口小部件间距的值。"
+
+#: includes/admin/views/admin-basic-settings.php:61
+msgid "Y-axis Offset"
+msgstr "Y轴偏移"
+
+#: includes/admin/views/admin-basic-settings.php:63
+msgid "Enter the value of y-axis ( vertical ) widget spacing."
+msgstr "输入y轴（垂直）小部件间距的值。"
+
+#: includes/admin/views/admin-basic-settings.php:76
+msgid "Display on desktop/laptop"
+msgstr "在桌面/笔记本显示"
+
+#: includes/admin/views/admin-basic-settings.php:86
+msgid "Select the location of the widget on desktop."
+msgstr ""
+
+#: includes/admin/views/admin-basic-settings.php:91
+#: includes/admin/views/admin-basic-settings.php:116
+msgid "Top Left"
+msgstr "左上"
+
+#: includes/admin/views/admin-basic-settings.php:92
+#: includes/admin/views/admin-basic-settings.php:117
+msgid "Top Center"
+msgstr "中上"
+
+#: includes/admin/views/admin-basic-settings.php:93
+#: includes/admin/views/admin-basic-settings.php:118
+msgid "Top Right"
+msgstr "右上"
+
+#: includes/admin/views/admin-basic-settings.php:94
+#: includes/admin/views/admin-basic-settings.php:119
+msgid "Bottom Left"
+msgstr "左下"
+
+#: includes/admin/views/admin-basic-settings.php:95
+#: includes/admin/views/admin-basic-settings.php:120
+msgid "Bottom Center"
+msgstr "中下"
+
+#: includes/admin/views/admin-basic-settings.php:96
+#: includes/admin/views/admin-basic-settings.php:121
+msgid "Bottom Right"
+msgstr "右下"
+
+#: includes/admin/views/admin-basic-settings.php:101
+msgid "Display on mobile devices"
+msgstr "在移动设备显示"
+
+#: includes/admin/views/admin-basic-settings.php:111
+msgid "Select the location of the widget on mobile."
+msgstr ""
+
+#: includes/admin/views/admin-basic-settings.php:125
+msgid "Auto Popup"
+msgstr "自动弹出"
+
+#: includes/admin/views/admin-basic-settings.php:126
+msgid "Enter the popup auto display time in seconds"
+msgstr "以秒为单位输入弹出自动显示时间"
+
+#: includes/admin/views/admin-basic-settings.php:136
+#, fuzzy
+#| msgid "Auto Popup"
+msgid "Auto Popup Delay"
+msgstr "自动弹出"
+
+#: includes/admin/views/admin-basic-settings.php:137
+msgid "Select the time in seconds for autopopup delay."
+msgstr ""
+
+#: includes/admin/views/admin-basic-settings.php:149
+msgid "Enable RTL"
+msgstr "启用RTL"
+
+#: includes/admin/views/admin-basic-settings.php:151
+msgid ""
+"You can enable RTL ( Right to Left ) if your website has language like "
+"Arabic, Persian and Hebrew."
+msgstr ""
+"如果您的网站使用阿拉伯语，波斯语和希伯来语等语言，您可以启用RTL（从右到左）。"
+
+#: includes/admin/views/admin-basic-settings.php:157
+msgid "Scroll Length"
+msgstr "滚动长度"
+
+#: includes/admin/views/admin-basic-settings.php:158
+#, php-format
+msgid "Default %s."
+msgstr ""
+
+#: includes/admin/views/admin-basic-settings.php:159
+msgid "Display button when scroll length matched with above value."
+msgstr "滚动长度与上述值匹配时显示按钮。"
+
+#: includes/admin/views/admin-basic-settings.php:171
+#, fuzzy
+#| msgid "Filter By Page"
+msgid "Filter By All Pages"
+msgstr "按页面过滤"
+
+#: includes/admin/views/admin-basic-settings.php:178
+#, fuzzy
+#| msgid "Filter By Page"
+msgid "Filter By Front Page"
+msgstr "按页面过滤"
+
+#: includes/admin/views/admin-basic-settings.php:185
+msgid "Include popup on Pages"
+msgstr "包含页面上的弹出窗口"
+
+#: includes/admin/views/admin-basic-settings.php:196
+msgid "Exclude popup on Pages"
+msgstr "排除页面上的弹出窗口"
+
+#: includes/admin/views/admin-basic-settings.php:207
+msgid "Hide Widget By URL"
+msgstr ""
+
+#: includes/admin/views/admin-basic-settings.php:208
+msgid "One URL per line."
+msgstr ""
+
+#: includes/admin/views/admin-basic-settings.php:209
+msgid "Hide widget by the URL"
+msgstr ""
+
+#: includes/admin/views/admin-basic-settings.php:215
+#: includes/admin/views/multiperson-support/admin-add-multiperson-support.php:97
+#: includes/admin/views/multiperson-support/admin-edit-multiperson-support.php:97
+msgid "Schedule"
+msgstr "时间表"
+
+#: includes/admin/views/admin-basic-settings.php:217
+msgid "Schedule by days to show WhatsApp Support Popup. Time format HH:MM:SS"
+msgstr "按天计划显示WhatsApp支持弹出窗口。时间格式HH:MM:SS"
+
+#: includes/admin/views/admin-basic-settings.php:218
+#, php-format
+msgid "Your selected time zone is %s"
+msgstr "您选择的时区是%s"
+
+#: includes/admin/views/admin-basic-settings.php:226
+#, fuzzy
+#| msgid "Custom   CSS"
+msgid "Custom CSS"
+msgstr "自定义CSS"
+
+#: includes/admin/views/admin-basic-settings.php:227
+#, fuzzy
+#| msgid "Add your custom CSS here"
+msgid "Enter your custom CSS."
+msgstr "在此添加自定义CSS"
+
+#: includes/admin/views/admin-basic-settings.php:235
+#, fuzzy
+#| msgid "Please do not turn on without our recommendation."
+msgid "Please do not make changes here without our permission."
+msgstr "如果没有我们的推荐，请不要打开。"
+
+#: includes/admin/views/admin-basic-settings.php:237
+#, fuzzy
+#| msgid "Developer settings"
+msgid "Goto developer settings"
+msgstr "开发者设置"
+
+#: includes/admin/views/admin-button-generator.php:9
+msgid "Button Type"
+msgstr "按钮类型"
+
+#: includes/admin/views/admin-button-generator.php:11
+msgid "Support Button"
+msgstr "支持按钮"
+
+#: includes/admin/views/admin-button-generator.php:12
+msgid "Group Invitation Button"
+msgstr "群聊邀请按钮"
+
+#: includes/admin/views/admin-button-generator.php:19
+#: includes/admin/views/admin-link-generator.php:19
+#: includes/admin/views/admin-qr-generator.php:7
+msgid ""
+"Enter mobile phone number with the international country code, without \"+\" "
+"character"
+msgstr "输入带有国家代码的手机号码，不带\"+\"字符"
+
+#: includes/admin/views/admin-button-generator.php:23
+#: includes/admin/views/admin-link-generator.php:23
+msgid "Group Chat ID"
+msgstr "群聊ID"
+
+#: includes/admin/views/admin-button-generator.php:36
+msgid "Button Background Color"
+msgstr "按钮背景颜色"
+
+#: includes/admin/views/admin-button-generator.php:97
+msgid "Display On Mobile  "
+msgstr "在手机上显示 "
+
+#: includes/admin/views/admin-button-generator.php:122
+#: includes/admin/views/admin-qr-generator.php:22
+msgid "Visual Representation"
+msgstr "视觉表现"
+
+#: includes/admin/views/admin-button-generator.php:128
+#: includes/admin/views/admin-qr-generator.php:27
+msgid "Generated Shortcode"
+msgstr "生成的短代码"
+
+#: includes/admin/views/admin-button-generator.php:130
+#: includes/admin/views/admin-qr-generator.php:29
+msgid "Copy shortcode and paste wherever you want. Have fun! :)"
+msgstr "复制短码并粘贴到您想要的任何位置。玩得开心！:)"
+
+#: includes/admin/views/admin-button-generator.php:134
+msgid "Generated HTML"
+msgstr "生成的HTML"
+
+#: includes/admin/views/admin-button-generator.php:136
+msgid "Copy HTML and paste wherever you want. Have fun! :)"
+msgstr "复制HTML并粘贴到您想要的任何位置。玩得开心！:)"
+
+#: includes/admin/views/admin-button-generator.php:139
+#: includes/admin/views/admin-link-generator.php:44
+#: includes/admin/views/admin-qr-generator.php:31
+msgid "Generate Now"
+msgstr "立即生成"
+
+#: includes/admin/views/admin-developer-settings.php:4
+msgid "Debug"
+msgstr ""
+
+#: includes/admin/views/admin-developer-settings.php:6
+msgid ""
+"By enabling debug option you allow us to view plugin settings, server "
+"environment, installed plugins."
+msgstr ""
+
+#: includes/admin/views/admin-developer-settings.php:12
+msgid "Enqueue jQuery"
+msgstr ""
+
+#: includes/admin/views/admin-developer-settings.php:14
+msgid "Enqueue jQuery frontend"
+msgstr ""
+
+#: includes/admin/views/admin-developer-settings.php:20
+#, fuzzy
+#| msgid "Settings"
+msgid "Reset Settings"
+msgstr "设置"
+
+#: includes/admin/views/admin-developer-settings.php:21
+msgid "Reset all settings to default."
+msgstr ""
+
+#: includes/admin/views/admin-developer-settings.php:22
+msgid "Reset"
+msgstr ""
+
+#: includes/admin/views/admin-developer-settings.php:31
+msgid "Delete Plugin Setting"
+msgstr "删除插件设置"
+
+#: includes/admin/views/admin-developer-settings.php:33
+msgid ""
+"If you want to delete plugin settings stored in database then enable this "
+"option and then click on the save changes button. Now delete the plugin from "
+"your plugins page."
+msgstr ""
+"如果要删除存储在数据库中的插件设置，请启用此选项，然后单击“保存更改”按钮。现"
+"在从插件页面删除插件。"
+
+#: includes/admin/views/admin-fb-analytics-settings.php:4
+msgid "Facebook Click Tracking"
+msgstr "Facebook点击跟踪"
+
+#: includes/admin/views/admin-fb-analytics-settings.php:6
+msgid "You can enable or disable facebook pixel click tracking."
+msgstr "您可以启用或禁用Facebook像素点击跟踪。"
+
+#: includes/admin/views/admin-fb-analytics-settings.php:12
+msgid "FB Event"
+msgstr "FB事件"
+
+#: includes/admin/views/admin-fb-analytics-settings.php:13
+msgid "Enter the name of custom event to track on Facebook pixel."
+msgstr "输入要在Facebook像素上跟踪的自定义事件的名称。"
+
+#: includes/admin/views/admin-fb-analytics-settings.php:19
+msgid "FB Event Label"
+msgstr "FB事件标签"
+
+#: includes/admin/views/admin-fb-analytics-settings.php:20
+msgid "Enter the label of custom event to track on Facebook pixel."
+msgstr "输入要在Facebook像素上跟踪的自定义事件的标签。"
+
+#: includes/admin/views/admin-ga-analytics-settings.php:4
+msgid "Google Event Tracking"
+msgstr "Google事件跟踪"
+
+#: includes/admin/views/admin-ga-analytics-settings.php:6
+msgid "You can enable or disable google event click tracking."
+msgstr "您可以启用或停用Google事件点击跟踪。"
+
+#: includes/admin/views/admin-ga-analytics-settings.php:12
+msgid "GA Event"
+msgstr "GA事件"
+
+#: includes/admin/views/admin-ga-analytics-settings.php:13
+msgid "Enter the name of custom the event to track on Google Analytics."
+msgstr "输入要在Google Analytics上跟踪的自定义事件的名称。"
+
+#: includes/admin/views/admin-ga-analytics-settings.php:19
+msgid "GA Event Category"
+msgstr "GA事件类别"
+
+#: includes/admin/views/admin-ga-analytics-settings.php:20
+msgid "Enter the name of the event category."
+msgstr "输入事件类别的名称。"
+
+#: includes/admin/views/admin-ga-analytics-settings.php:26
+msgid "GA Event Label"
+msgstr "GA事件标签"
+
+#: includes/admin/views/admin-ga-analytics-settings.php:27
+msgid "Enter the label of the event."
+msgstr "输入事件的标签。"
+
+#: includes/admin/views/admin-gdpr-setting-page.php:4
+msgid "GDPR"
+msgstr "GDPR"
+
+#: includes/admin/views/admin-gdpr-setting-page.php:6
+msgid "Enable/ Disable GDPR compliant."
+msgstr "启用/禁用GDPR兼容。"
+
+#: includes/admin/views/admin-gdpr-setting-page.php:12
+msgid "GDPR Message"
+msgstr "GDPR消息"
+
+#: includes/admin/views/admin-gdpr-setting-page.php:13
+#, php-format
+msgid "Use shortcode %s to add privacy page link."
+msgstr "使用短码%s添加隐私页面链接。"
+
+#: includes/admin/views/admin-gdpr-setting-page.php:20
+msgid "Privacy page"
+msgstr "隐私页面"
+
+#: includes/admin/views/admin-gdpr-setting-page.php:21
+msgid "Select your privacy page."
+msgstr "选择隐私页面。"
+
+#: includes/admin/views/admin-link-generator.php:9
+msgid "Link Type"
+msgstr "链接类型"
+
+#: includes/admin/views/admin-link-generator.php:11
+msgid "Chat Link"
+msgstr "聊天链接"
+
+#: includes/admin/views/admin-link-generator.php:12
+msgid "Group Invitation Link"
+msgstr "集团邀请链接"
+
+#: includes/admin/views/admin-link-generator.php:17
+msgid "WhatsApp Number"
+msgstr "WhatsApp号码"
+
+#: includes/admin/views/admin-link-generator.php:30
+msgid "Enter a message that you will receive when someone clicks on the link."
+msgstr "输入当有人点击链接时您会收到的消息。"
+
+#: includes/admin/views/admin-link-generator.php:39
+msgid "Generated Link"
+msgstr "生成的链接"
+
+#: includes/admin/views/admin-link-generator.php:41
+msgid "Copy link and share. Have fun! :)"
+msgstr "复制链接和分享。玩得开心！ :)"
+
+#: includes/admin/views/admin-manage-support-persons.php:7
+#: includes/admin/views/admin-manage-support-persons.php:31
+msgid "Name"
+msgstr ""
+
+#: includes/admin/views/admin-manage-support-persons.php:8
+#: includes/admin/views/admin-manage-support-persons.php:32
+msgid "Title"
+msgstr ""
+
+#: includes/admin/views/admin-manage-support-persons.php:9
+#: includes/admin/views/admin-manage-support-persons.php:33
+#, fuzzy
+#| msgid "Support Contact Number"
+msgid "Contact Number"
+msgstr "联系电话"
+
+#: includes/admin/views/admin-manage-support-persons.php:22
+msgid "Edit"
+msgstr "编辑"
+
+#: includes/admin/views/admin-manage-support-persons.php:38
+msgid "Add Support Person"
+msgstr "添加支持人员"
+
+#: includes/admin/views/admin-manage-support-persons.php:52
+#: includes/admin/views/admin-product-query.php:45
+#: includes/compatibility/class-wws-dokan.php:125
+msgid ""
+"Enter mobile phone number with the international country code, without + "
+"character. Example:  911234567890 for (+91) 1234567890"
+msgstr ""
+"输入带有国家代码的手机号码，不带+号。例如：(+91) 1234567890，则输入"
+"911234567890"
+
+#: includes/admin/views/admin-manage-support-persons.php:58
+#: includes/admin/views/admin-product-query.php:68
+#: includes/admin/views/multiperson-support/admin-add-multiperson-support.php:81
+#: includes/admin/views/multiperson-support/admin-edit-multiperson-support.php:80
+msgid "Support Person Image"
+msgstr "联系头像"
+
+#: includes/admin/views/admin-manage-support-persons.php:59
+msgid "Upload support person image"
+msgstr "上传支持人员形象"
+
+#: includes/admin/views/admin-manage-support-persons.php:72
+msgid "Support Group ID"
+msgstr "WhatsApp群聊ID"
+
+#: includes/admin/views/admin-manage-support-persons.php:73
+msgid "Enter your WhatsApp group chat ID"
+msgstr "输入您的WhatsApp群聊ID"
+
+#: includes/admin/views/admin-manage-support-persons.php:89
+#, fuzzy
+#| msgid "WhatsApp Support Text Settings"
+msgid "Multi Support Person Settings"
+msgstr "WhatsApp文本设置"
+
+#: includes/admin/views/admin-manage-support-persons.php:94
+msgid "Multi Support Randomize"
+msgstr ""
+
+#: includes/admin/views/admin-manage-support-persons.php:96
+msgid "You can rotate or randomize the multi support person order."
+msgstr ""
+
+#: includes/admin/views/admin-plugin-support.php:7
+msgid "Need Customization? Hire an Expert."
+msgstr "需要定制吗？聘请专家。"
+
+#: includes/admin/views/admin-plugin-support.php:8
+msgid ""
+"We know it’s not easy to find a reliable WordPress expert at a price you can "
+"afford. We have a hand-picked team of professional, reliable, experienced "
+"and FRIENDLY experts."
+msgstr ""
+"我们知道以您能承受的价格找到可靠的WordPress专家并不容易。我们拥有一支专业，可"
+"靠，经验丰富，友好的专家团队。"
+
+#: includes/admin/views/admin-plugin-support.php:9
+#, fuzzy
+#| msgid "Hire Now"
+msgid "Hire Us Now"
+msgstr "现在雇用"
+
+#: includes/admin/views/admin-plugin-support.php:14
+msgid "Customer Support."
+msgstr "客户支持。"
+
+#: includes/admin/views/admin-plugin-support.php:15
+msgid ""
+"If you need instant support then choose following options. Our support will "
+"reply as soon as possible after you send us a message."
+msgstr ""
+"如果您需要即时支持，请选择以下选项。在您向我们发送消息后，我们的支持将尽快回"
+"复。"
+
+#: includes/admin/views/admin-plugin-support.php:16
+msgid "I Need Support"
+msgstr ""
+
+#: includes/admin/views/admin-product-query.php:4
+msgid "Product Support Button"
+msgstr "产品支持按钮"
+
+#: includes/admin/views/admin-product-query.php:6
+msgid ""
+"Enable / Disable product support button on WooCommerce single product page."
+msgstr "在WooCommerce单个产品页面上启用/禁用按钮。"
+
+#: includes/admin/views/admin-product-query.php:12
+msgid "Button Location"
+msgstr "按钮位置"
+
+#: includes/admin/views/admin-product-query.php:13
+msgid "Choose the location of product query button."
+msgstr "选择产品查询按钮的位置。"
+
+#: includes/admin/views/admin-product-query.php:18
+msgid "After Short Description"
+msgstr "简短描述后"
+
+#: includes/admin/views/admin-product-query.php:19
+msgid "After Add to Cart Button"
+msgstr "添加到购物车按钮后"
+
+#: includes/admin/views/admin-product-query.php:24
+msgid "Change button background color."
+msgstr "更改按钮背景颜色。"
+
+#: includes/admin/views/admin-product-query.php:31
+msgid "Change button text color."
+msgstr "更改按钮文本颜色。"
+
+#: includes/admin/views/admin-product-query.php:37
+msgid "Button Label"
+msgstr "按钮标签"
+
+#: includes/admin/views/admin-product-query.php:38
+msgid "Enter button label."
+msgstr "输入按钮标签。"
+
+#: includes/admin/views/admin-product-query.php:54
+#: includes/admin/views/multiperson-support/admin-add-multiperson-support.php:67
+#: includes/admin/views/multiperson-support/admin-edit-multiperson-support.php:64
+msgid "Support Person Name"
+msgstr "支持员名称"
+
+#: includes/admin/views/admin-product-query.php:55
+msgid "Enter the name of support person."
+msgstr "输入支支持员的姓名。"
+
+#: includes/admin/views/admin-product-query.php:61
+#: includes/admin/views/multiperson-support/admin-add-multiperson-support.php:74
+#: includes/admin/views/multiperson-support/admin-edit-multiperson-support.php:72
+msgid "Support Person Title"
+msgstr "支持员标题"
+
+#: includes/admin/views/admin-product-query.php:62
+msgid "Enter the title / designation of support person."
+msgstr "输入支支持员的标题/称号。"
+
+#: includes/admin/views/admin-product-query.php:69
+msgid "Upload support person image."
+msgstr "上传支持人员形象。"
+
+#: includes/admin/views/admin-product-query.php:76
+msgid "Pre Populated Message"
+msgstr "预先填充的消息"
+
+#: includes/admin/views/admin-product-query.php:77
+#, php-format
+msgid "Use %s shortcode for product title and %s for product URL"
+msgstr "产品标题使用%s短码，产品网址使用%s"
+
+#: includes/admin/views/admin-product-query.php:84
+msgid "Exclude by products"
+msgstr "按产品排除"
+
+#: includes/admin/views/admin-product-query.php:85
+msgid "You can exclude or turn off WhatsApp product query button by products."
+msgstr "您可以按产品排除或关闭WhatsApp产品查询按钮。"
+
+#: includes/admin/views/admin-product-query.php:98
+msgid "Exclude by categories"
+msgstr "按分类排除"
+
+#: includes/admin/views/admin-product-query.php:99
+msgid ""
+"You can exclude or turn off WhatsApp product query button by categories."
+msgstr "您可以按分类排除或关闭WhatsApp产品查询按钮。"
+
+#: includes/admin/views/admin-qr-generator.php:10
+msgid "Enter Message"
+msgstr "输入消息"
+
+#: includes/admin/views/admin-qr-generator.php:11
+#: includes/admin/views/admin-qr-generator.php:24
+msgid "Scan QR to talk us via WhatsApp"
+msgstr "扫描QR通过WhatsApp与我们交谈"
+
+#: includes/admin/views/admin-qr-generator.php:15
+msgid "QR Image Size"
+msgstr "QR图像大小"
+
+#: includes/admin/views/admin-qr-generator.php:17
+msgid "Enter the QR image size in pixel."
+msgstr "以像素为单位输入QR图像大小。"
+
+#: includes/admin/views/admin-widget-text-settings.php:5
+msgid "If you leave it blank than, trigger button shown as only icon."
+msgstr "如果将其留空，则触发按钮仅显示为图标。"
+
+#: includes/admin/views/admin-widget-text-settings.php:11
+#: includes/admin/views/admin-widget-text-settings.php:12
+msgid "About Support."
+msgstr "关于支持。"
+
+#: includes/admin/views/admin-widget-text-settings.php:19
+msgid "Welcome Messages"
+msgstr "欢迎留言"
+
+#: includes/admin/views/admin-widget-text-settings.php:20
+msgid "Welcome message from Support. Sometime this can be use as pre message."
+msgstr "来自插件的欢迎信息。可用作预先消息。"
+
+#: includes/admin/views/admin-widget-text-settings.php:26
+msgid "Input Placeholder Text"
+msgstr "提示语句文本"
+
+#: includes/admin/views/admin-widget-text-settings.php:27
+msgid "Input placeholder."
+msgstr "输入占位符。"
+
+#: includes/admin/views/admin-widget-text-settings.php:33
+msgid "Number Placeholder Text"
+msgstr "数字占位符文本"
+
+#: includes/admin/views/admin-widget-text-settings.php:34
+msgid "Enter the placeholder text for asking WhatsApp number from visitors."
+msgstr "输入占位符文本以向访问者询问WhatsApp号码。"
+
+#: includes/admin/views/admin-widget-text-settings.php:40
+#, fuzzy
+#| msgid "Number"
+msgid "Number Masking"
+msgstr "数"
+
+#: includes/admin/views/admin-widget-text-settings.php:47
+msgid "9 - Represents a numeric character (0-9)"
+msgstr ""
+
+#: includes/admin/views/admin-widget-text-settings.php:49
+#, php-format
+msgid ""
+"Facing issue with number masking? feel free to <a href=\"%s\" target=\"_blank"
+"\">contact us</a>"
+msgstr ""
+
+#: includes/admin/views/admin-widget-text-settings.php:51
+msgid "You can enter the phone number masking as per your need."
+msgstr ""
+
+#: includes/admin/views/admin-widget-text-settings.php:57
+msgid "Predefined Text"
+msgstr "预定义文本"
+
+#: includes/admin/views/admin-widget-text-settings.php:59
+msgid ""
+"This will automatically append the following options along with user text."
+msgstr "这将自动附加以下选项以及用户文本。"
+
+#: includes/admin/views/analytics/admin-deep-analytics.php:8
+msgid "Country"
+msgstr "国家"
+
+#: includes/admin/views/analytics/admin-deep-analytics.php:12
+msgid "Region"
+msgstr "区域"
+
+#: includes/admin/views/analytics/admin-deep-analytics.php:16
+msgid "City"
+msgstr "市"
+
+#: includes/admin/views/analytics/admin-deep-analytics.php:20
+msgid "ZIP Code"
+msgstr "邮政编码"
+
+#: includes/admin/views/analytics/admin-deep-analytics.php:29
+msgid "Timezone"
+msgstr "时区"
+
+#: includes/admin/views/analytics/admin-deep-analytics.php:33
+msgid "Internet Service Provider"
+msgstr "互联网服务提供商"
+
+#: includes/admin/views/analytics/admin-deep-analytics.php:37
+msgid "Organization Name"
+msgstr "机构名称"
+
+#: includes/admin/views/multiperson-support/admin-add-multiperson-support.php:57
+#: includes/admin/views/multiperson-support/admin-edit-multiperson-support.php:53
+msgid "Support Person Contact"
+msgstr "支持员联系"
+
+#: includes/admin/views/multiperson-support/admin-add-multiperson-support.php:58
+#: includes/admin/views/multiperson-support/admin-edit-multiperson-support.php:54
+msgid ""
+"Enter mobile phone number with the international country code, without \"+\" "
+"character. Example:  911234567890 for (+91) 1234567890"
+msgstr ""
+"输入带有国家代码的手机号码，不含+号。例如：(+91) 1234567890，则输入"
+"911234567890"
+
+#: includes/admin/views/multiperson-support/admin-add-multiperson-support.php:68
+#: includes/admin/views/multiperson-support/admin-edit-multiperson-support.php:65
+#, fuzzy
+#| msgid "Enter support person name."
+msgid "Enter support person name"
+msgstr "输入支持员姓名。"
+
+#: includes/admin/views/multiperson-support/admin-add-multiperson-support.php:75
+#: includes/admin/views/multiperson-support/admin-edit-multiperson-support.php:73
+msgid "Enter support person title/designation."
+msgstr "输入支持员标题/称号。"
+
+#: includes/admin/views/multiperson-support/admin-add-multiperson-support.php:82
+#: includes/admin/views/multiperson-support/admin-edit-multiperson-support.php:81
+msgid "Add support person image"
+msgstr "添加支持员头像"
+
+#: includes/admin/views/multiperson-support/admin-add-multiperson-support.php:87
+#: includes/admin/views/multiperson-support/admin-edit-multiperson-support.php:87
+msgid "Support Pre Message"
+msgstr "支持员预先留言"
+
+#: includes/admin/views/multiperson-support/admin-add-multiperson-support.php:98
+#: includes/admin/views/multiperson-support/admin-edit-multiperson-support.php:98
+msgid "Schedule by days to show contact person availablity. Time format HH:MM"
+msgstr "按天计划显示联系人的可用性。时间格式HH:MM"
+
+#: includes/admin/views/notifications/admin-review.php:2
+msgid "Leave A Review?"
+msgstr "留下评论？"
+
+#: includes/admin/views/notifications/admin-review.php:7
+#, php-format
+msgid ""
+"We hope you've enjoyed using %s Would you consider leaving us a review on %s"
+msgstr "希望您能够喜欢%s，您是否考虑对%s进行评论"
+
+#: includes/admin/views/notifications/admin-review.php:19
+msgid "Sure! I'd love to!"
+msgstr "我很喜欢!"
+
+#: includes/admin/views/notifications/admin-review.php:24
+msgid "I've already left a review"
+msgstr "已留评论"
+
+#: includes/admin/views/notifications/admin-review.php:28
+msgid "Never show again"
+msgstr "不再显示"
+
+#: includes/admin/views/notifications/view-admin-update-plugin-notice.php:2
+#, fuzzy
+#| msgid "WordPress WhatsApp Support"
+msgid "Thank you for choosing the WordPress WhatsApp Support. :)"
+msgstr "WordPress WhatsApp Support"
+
+#: includes/admin/views/notifications/view-admin-update-plugin-notice.php:3
+msgid ""
+"We rapidly improving our plugin by fixing the major and minor bug. Please "
+"support us for the best."
+msgstr ""
+
+#: includes/admin/views/notifications/view-admin-update-plugin-notice.php:5
+#, php-format
+msgid "Change Log - Version %s"
+msgstr ""
+
+#: includes/admin/views/notifications/view-admin-update-plugin-notice.php:6
+msgid ""
+"Note: If you upgrade the plugin from <strong>version 1.8.6 or older to "
+"version 1.8.7</strong> then please do the following changes or if you "
+"installed the plugin first time then you do not need to do the following "
+"change :)"
+msgstr ""
+
+#: includes/admin/views/notifications/view-admin-update-plugin-notice.php:7
+msgid ""
+"1: If you are using WPML for multi languages then please re-translate the "
+"dynamic strings."
+msgstr ""
+
+#: includes/admin/views/notifications/view-admin-update-plugin-notice.php:8
+msgid "2: Cross check your plugin settings again."
+msgstr ""
+
+#: includes/admin/views/notifications/view-admin-update-plugin-notice.php:10
+msgid "I found a bug!"
+msgstr ""
+
+#: includes/admin/views/notifications/view-admin-update-plugin-notice.php:11
+msgid "I need support"
+msgstr ""
+
+#: includes/admin/views/notifications/view-admin-update-plugin-notice.php:12
+msgid "Dismiss notice"
+msgstr ""
+
+#: includes/class-wws-analytics.php:298
+msgid "IP Address"
+msgstr ""
+
+#: includes/class-wws-analytics.php:299 includes/class-wws-analytics.php:348
+#: includes/class-wws-analytics.php:396 includes/class-wws-analytics.php:444
+#, fuzzy
+#| msgid "Total Clicks"
+msgid "Clicks"
+msgstr "总点击次数"
+
+#: includes/class-wws-analytics.php:347
+#, fuzzy
+#| msgid "Referral"
+msgid "Referral Links"
+msgstr "推介"
+
+#: includes/class-wws-analytics.php:395
+msgid "Operating Systems"
+msgstr ""
+
+#: includes/class-wws-analytics.php:443
+#, fuzzy
+#| msgid "Browser"
+msgid "Browsers"
+msgstr "浏览器"
+
+#: includes/class-wws-init.php:107
+msgid "Settings"
+msgstr "设置"
+
+#: includes/compatibility/class-wws-dokan.php:28
+#: includes/compatibility/class-wws-dokan.php:29
+msgid "Dokan Multivendor"
+msgstr ""
+
+#: includes/compatibility/class-wws-dokan.php:65
+#, fuzzy
+#| msgid "WordPress WhatsApp Support"
+msgid "WordPress WhatsApp Support For Dokan Multivendor"
+msgstr "WordPress WhatsApp Support"
+
+#: includes/compatibility/class-wws-dokan.php:76
+#, fuzzy
+#| msgid "WhatsApp Support Button"
+msgid "WhatsApp Support For Dokan"
+msgstr "WhatsApp按钮"
+
+#: includes/compatibility/class-wws-dokan.php:83
+msgid "You can enable or disable WordPress WhatsApp Support for Dokan vendors."
+msgstr ""
+
+#: includes/compatibility/class-wws-dokan.php:84
+msgid ""
+"This feature allow vendors to add WhatsApp Number for customer support from "
+"their Dokan's edit product page."
+msgstr ""
+
+#: includes/compatibility/class-wws-dokan.php:106
+#, fuzzy
+#| msgid ""
+#| "You can exclude or turn off WhatsApp product query button by products."
+msgid "You can add your WhatsApp number on your product page."
+msgstr "您可以按产品排除或关闭WhatsApp产品查询按钮。"
+
+#: includes/compatibility/class-wws-dokan.php:116
+#, fuzzy
+#| msgid "WhatsApp Number"
+msgid "Your WhatsApp Number"
+msgstr "WhatsApp号码"
+
+#: includes/compatibility/class-wws-dokan.php:141
+msgid ""
+"WordPress WhatsApp Support for Dokan is enabled. These settings are managing "
+"by the vendors. Admin can also override and change settings for vendors."
+msgstr ""
+
+#: includes/helpers/helper-wws-functions.php:12
+#, fuzzy
+#| msgid "Enter here"
+msgid "Know here"
+msgstr "点击输入"
+
+#: templates/wws-template-6.php:81 templates/wws-template-8.php:87
+msgid "Available"
+msgstr "可用"
+
+#: templates/wws-template-6.php:99 templates/wws-template-8.php:109
+msgid "Away"
+msgstr "永久"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wecreativez.com/"
+msgstr "http://wecreativez.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"WordPress WhatsApp Support plugin provides better and easy way to "
+"communicate visitors and customers directly to your support person."
+msgstr ""
+"WhatsApp支持插件提供了更好，更简单的方式来将访客和客户直接传达给您的支持人"
+"员。"
+
+#. Author of the plugin/theme
+msgid "WeCreativez"
+msgstr "WeCreativez"
+
+#. Author URI of the plugin/theme
+msgid "https://wecreativez.com/"
+msgstr "http://wecreativez.com/"
+
+#~ msgid "Contact us via Envato"
+#~ msgstr "通过Envato联系我们"
+
+#~ msgid "View details"
+#~ msgstr "查看详情"
+
+#~ msgid "More information about %s"
+#~ msgstr "有关%s的更多信息"
+
+#~ msgctxt "the plugin title"
+#~ msgid "The %s plugin is up to date."
+#~ msgstr "%s 插件是最新的。"
+
+#~ msgctxt "the plugin title"
+#~ msgid "A new version of the %s plugin is available."
+#~ msgstr "已提供%s插件的新版本。"
+
+#~ msgctxt "the plugin title"
+#~ msgid "Could not determine if updates are available for %s."
+#~ msgstr "无法确定%s是否有更新。"
+
+#~ msgid "Unknown update checker status \"%s\""
+#~ msgstr "未知的更新检查器状态为“%s”"
+
+#~ msgid "There is no changelog available."
+#~ msgstr "没有可用的变更日志。"
+
+#~ msgid "WhatsApp Support Trigger Button"
+#~ msgstr "WhatsApp触发按钮"
+
+#~ msgid "Everwhere"
+#~ msgstr "随处可见"
+
+#~ msgid "Front Page"
+#~ msgstr "网站首页"
+
+#~ msgid "WhatsApp Single Person Support"
+#~ msgstr "WhatsApp单人支持"
+
+#~ msgid "WhatsApp Group Settings"
+#~ msgstr "WhatsApp设置"
+
+#~ msgid "WhatsApp Multi Account Settings"
+#~ msgstr "WhatsApp多账户设置"
+
+#~ msgid "Save Changes"
+#~ msgstr "保存更改"
+
+#, fuzzy
+#~| msgid "Share Debug Report With Our Support Team."
+#~ msgid "Allow Debug Our Support Team."
+#~ msgstr "与我们的支持团队共享调试报告。"
+
+#, fuzzy
+#~| msgid ""
+#~| "Generate, download, and share the debug report with our experts. Report "
+#~| "contains site URL, WP version, list of activated plugins and plugin "
+#~| "options setting."
+#~ msgid ""
+#~ "By enabling this option you allow us to view site URL, WP version, list "
+#~ "of activated plugins and plugin options setting."
+#~ msgstr ""
+#~ "与我们的专家一起生成，下载和共享调试报告。报告包含站点URL，WP版本，激活的"
+#~ "插件列表和插件选项设置。"
+
+#~ msgid "Report generated. Please click on Download Report button."
+#~ msgstr "生成报告。请单击“下载报告”按钮。"
+
+#~ msgid "Leave blank for display every time."
+#~ msgstr "每次都留空显示。"
+
+#~ msgid "Select pages, where you want to add WhatsApp Support."
+#~ msgstr "选择想要显示WhatsApp支持的页面。"
+
+#~ msgid "Select pages, where you not want to add WhatsApp Support."
+#~ msgstr "选择不想显示WhatsApp支持的页面。"
+
+#~ msgid "Developer"
+#~ msgstr "开发人员"
+
+#~ msgid "Download Report"
+#~ msgstr "下载报告"
+
+#~ msgid "Exclude Query Button"
+#~ msgstr "排除产品查询按钮排除查询按钮"
+
+#~ msgid "Upload Image"
+#~ msgstr "上传图片"
+
+#~ msgid "Error Code: %s. Please contact us."
+#~ msgstr "错误代码：%s。请联系我们。"
+
+#~ msgid "WeCreativez WhatsApp Support"
+#~ msgstr "WhatsApp支持"
+
+#~ msgid "Sonu Kaushal"
+#~ msgstr "索努·卡库萨尔"
+
+#~ msgid "http://sonukaushal.com/"
+#~ msgstr "http://sonukaushal.com/"
+
+#~ msgid "Shortcode Generator"
+#~ msgstr "短码生成"
+
+#~ msgid "WooCommerce not installed or maybe no activated."
+#~ msgstr "WooCommerce未安装或未激活。"
+
+#~ msgid "Report shared."
+#~ msgstr "报告已分享。"
+
+#~ msgid "GDPR settings saved."
+#~ msgstr "GDPR设置已保存。"
+
+#~ msgid ""
+#~ "Enter your purchase code to get instant support and advance customer "
+#~ "service! %s"
+#~ msgstr "输入您的购买代码以获得即时支持并提前为客户服务！%s"
+
+#~ msgid "%s to display current page title in chat."
+#~ msgstr "%s在聊天中显示当前页面标题。"
+
+#~ msgid "%s to display current page URL in chat."
+#~ msgstr "%s在聊天中显示当前页面网址。"
+
+#~ msgid "%s to break the line into a new line."
+#~ msgstr "%s把这条线分成一条新线。"
+
+#~ msgid "Add"
+#~ msgstr "加"
+
+#~ msgid "Save"
+#~ msgstr "保存"
+
+#~ msgid "Plugin Activated"
+#~ msgstr "插件已激活"
+
+#~ msgid "Enter your Envato purchase code to activate"
+#~ msgstr "输入您的Envato购买代码以激活"
+
+#~ msgid "Click on IP address to know more about the visitors"
+#~ msgstr "单击IP地址以了解有关访客的更多信息"
+
+#~ msgid "Enable GDPR"
+#~ msgstr "启用GDPR"
+
+#~ msgid "Copy and share the link"
+#~ msgstr "复制并分享链接"
+
+#~ msgid "Designing"
+#~ msgstr "设计"
+
+#~ msgid "Add Support person image"
+#~ msgstr "添加支持人员图像"
+
+#~ msgid "WeCreativez WhatsApp Support - Support"
+#~ msgstr "WhatsApp - 支持"
+
+#~ msgid "Plugin Registration"
+#~ msgstr "插件注册"
+
+#~ msgid "Plugin Not Activated"
+#~ msgstr "插件未激活"
+
+#~ msgid "This is the address where we will contact you."
+#~ msgstr "这是我们与您联系的地址。"
+
+#~ msgid "Enable"
+#~ msgstr "启用"
+
+#~ msgid "Enable Debugging"
+#~ msgstr "启用调试"
+
+#~ msgid "HTML in"
+#~ msgstr "HTML在"
+
+#~ msgid "Fix Widget Shortcode"
+#~ msgstr "修复小部件短码"
+
+#~ msgid "Disable Auto Update"
+#~ msgstr "禁用自动更新"
+
+#~ msgid "Display product share button on mobile."
+#~ msgstr "在移动设备上显示产品分享按钮."
+
+#~ msgid "Support Message"
+#~ msgstr "支持消息"
+
+#~ msgid "Enter the pre populate support message here."
+#~ msgstr "在此处输入预填充支持消息。"
+
+#~ msgid "Save Product Support"
+#~ msgstr "保存产品支持"
+
+#~ msgid "WeCreativez WhatsApp Support - Shortcode Generator"
+#~ msgstr "WhatsApp - 短码"
+
+#~ msgid "HTML Code"
+#~ msgstr "HTML代码"
+
+#~ msgid "WordPress"
+#~ msgstr "WordPress"
+
+#~ msgid "WooCommerce"
+#~ msgstr "WooCommerce"

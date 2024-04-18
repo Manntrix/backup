@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_5" x="0px" y="0px" viewBox="0 0 88 64" xml:space="preserve">
+<polygon fill="none" points="76.01,9.98 76.01,57.98 107.99,57.98 107.99,49.99 139.94,49.99 139.94,9.98 "></polygon>
+<g>
+	<rect x="47.98" y="55.98" width="8.02" height="8"></rect>
+	<rect x="63.91" y="55.98" width="8.02" height="8"></rect>
+	<rect x="79.98" y="55.98" width="8.02" height="8"></rect>
+	<g>
+		<path d="M8.01,55.98v-48h63.93v40.02h7.98V6c0-3.31-2.69-6-6-6H6C2.69,0,0,2.69,0,6v52c0,3.31,2.69,6,6,6h33.99    v-8.02H8.01z"></path>
+		<polygon points="7.99,12 40.07,32 71.95,12 71.95,19.95 39.97,39.19 7.99,19.95   "></polygon>
+	</g>
+</g>
+</svg>
